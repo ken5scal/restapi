@@ -4,12 +4,14 @@
       <root url="file://$USER_HOME$/workspace/go/src/github.com" />
       <root url="file://$USER_HOME$/workspace/go/src/golang.org" />
       <root url="file://$USER_HOME$/workspace/go/src/9fans.net" />
+      <root url="file://$USER_HOME$/workspace/go/src/gopkg.in" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
       <root url="file://$USER_HOME$/workspace/go/src/github.com" />
       <root url="file://$USER_HOME$/workspace/go/src/golang.org" />
       <root url="file://$USER_HOME$/workspace/go/src/9fans.net" />
+      <root url="file://$USER_HOME$/workspace/go/src/gopkg.in" />
     </SOURCES>
     <excluded>
       <root url="file://$PROJECT_DIR$" />
