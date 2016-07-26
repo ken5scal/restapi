@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="GOPATH &lt;restapi&gt;">
+    <CLASSES>
+      <root url="file://$USER_HOME$/workspace/go/src/github.com" />
+      <root url="file://$USER_HOME$/workspace/go/src/golang.org" />
+      <root url="file://$USER_HOME$/workspace/go/src/9fans.net" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$USER_HOME$/workspace/go/src/github.com" />
+      <root url="file://$USER_HOME$/workspace/go/src/golang.org" />
+      <root url="file://$USER_HOME$/workspace/go/src/9fans.net" />
+    </SOURCES>
+    <excluded>
+      <root url="file://$PROJECT_DIR$" />
+    </excluded>
+  </library>
+</component>
